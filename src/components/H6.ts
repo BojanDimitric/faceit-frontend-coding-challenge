@@ -1,4 +1,5 @@
 import styled from 'styled-components';
+
 import theme from '../theme';
 
 const H6 = styled.h6`
